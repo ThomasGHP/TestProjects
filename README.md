@@ -1,2 +1,2 @@
 # TestProjects
-Repository for testing my projects.
+Repository for uploading and testing my new projects. 
